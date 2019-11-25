@@ -1,0 +1,47 @@
+// Place all the styles related to the ask controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+p {
+ font-family: sans-serif;
+}
+
+#blue_btn {
+  color: #FFFFFF;
+  background-color: #337AB8;
+  height: 45px;
+  font-size: 15px;
+  font-weight: bold;
+  width: 60px;
+  margin: 0;
+}
+
+#input {
+  width: 80%;
+  border-radius: 5px;
+  height: 40px;
+  margin: -6px;
+}
+
+
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: lighter;
+
+}
+
+p {
+  font-style: italic;
+}
+
+.container {
+  border-left: 3px;
+  border-width: 5px;
+}
